@@ -29,7 +29,7 @@ To use Stats Cards in your project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stats-cards.git
+   git clone https://github.com/manish999in/stats-cards.git
    ```
 
 2. Customize the HTML and CSS files to fit your needs.
